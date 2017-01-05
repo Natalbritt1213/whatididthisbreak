@@ -1,0 +1,21 @@
+h1{
+color:Purple;
+font-family:Arial;
+font-size:60px;
+background-color: yellow;
+text-align:center;
+
+}
+
+ul{
+color:pink;
+font-family:Arial;
+text-align:center;
+
+}
+
+body{
+background-color: pink;
+background-image: url("http://www.wallpaperstop.com/wallpapers/nature-wallpapers/winter-wallpapers/winter-background-336x210-1008125.jpg");
+font-size:40px;
+}
